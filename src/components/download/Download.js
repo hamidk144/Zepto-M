@@ -15,7 +15,7 @@ const Download = () => {
   return (
     <section id="download">
       <div className="container download" data-aos="fade-up">
-        <h2>SocialX messenger download</h2>
+        <h2>ZeptoM messenger download</h2>
         <p className="u-text-small">
           Our apps are available for download on all stores.
         </p>

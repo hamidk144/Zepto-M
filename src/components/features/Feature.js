@@ -13,7 +13,7 @@ const Feature = ({ icon, heading, text }) => {
 
       <div className="feature-text">
         <h3>{heading}</h3>
-        <p className="u-text-small">{text}</p>
+        <p className="u-text-small">ZeptoM app has Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi labore, harum officiis error quia cupiditate?</p>
       </div>
     </div>
   );

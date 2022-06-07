@@ -37,26 +37,26 @@ const Footer = () => {
           <h4>Contact Us</h4>
           <div className="footer-contact u-text-small">
             <p>
-              <FaMapMarkerAlt /> &nbsp; Address: United States.
+              <FaMapMarkerAlt /> &nbsp; Address: Islamabad Pakistan.
             </p>
             <p>
-              <FaPhoneAlt /> &nbsp; Phone: +1230 123 1231.
+              <FaPhoneAlt /> &nbsp; Phone: +9230 123 1231.
             </p>
             <p>
-              <FaFax /> &nbsp; Fax: +12342762178
+              <FaFax /> &nbsp; Fax: +92342762178
             </p>
             <p>
-              <FaEnvelope /> &nbsp; Email: info@socialx.com
+              <FaEnvelope /> &nbsp; Email: info@zeptom.com
             </p>
             <p>
-              <FaGlobe /> &nbsp; Website: www.socialx.com
+              <FaGlobe /> &nbsp; Website: www.zeptom.com
             </p>
           </div>
         </div>
-        <div className="footer-box">
+       {/*  <div className="footer-box">
           <img src={logo} alt="logo" />
-          <p className="u-text-small">&copy; Copyright 2021. SocialX.com</p>
-        </div>
+          <p className="u-text-small">&copy; Copyright 2021. zeptom.com</p>
+        </div> */}
       </div>
     </section>
   );

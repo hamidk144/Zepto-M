@@ -21,7 +21,7 @@ const Features = () => {
           <BsFillBookmarkStarFill color="orangered" size={30} />
           <h2>Core Features</h2>
           <p className="u-text-small">
-            SocialX app has Lorem ipsum dolor sit amet consectetur adipisicing
+            ZeptoM app has Lorem ipsum dolor sit amet consectetur adipisicing
             elit. Sequi labore, harum officiis error quia cupiditate?
           </p>
         </div>

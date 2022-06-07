@@ -24,7 +24,7 @@ const Header = () => {
             <span>messaging system</span>
           </h1>
           <p className="u-text-small">
-            SocialX is a Lorem ipsum dolor sit amet, consectetur adipisicing
+            ZeptoM is a Lorem ipsum dolor sit amet, consectetur adipisicing
             elit. Obcaecati ea aliquam sit nemo nisi! Nesciunt quis illum id qui
             et!
           </p>
